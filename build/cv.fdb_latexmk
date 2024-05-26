@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1716726539 "c:/Users/jwiedenmann/source/other_projects/resume/cv.tex" "build/cv.pdf" "cv" 1716726539
+["pdflatex"] 1716726592 "c:/Users/jwiedenmann/source/other_projects/resume/cv.tex" "build/cv.pdf" "cv" 1716726592
   "awesome-cv.cls" 1716718511 30403 8d40609025f93862de82a3e783397186 ""
-  "build/cv.aux" 1716726539 34 3985256e7290058c681f74d7a3565a19 ""
-  "c:/Users/jwiedenmann/source/other_projects/resume/cv.tex" 1716725723 3568 617ae75240f5375659249d918ede5700 ""
+  "build/cv.aux" 1716726592 34 3985256e7290058c681f74d7a3565a19 ""
+  "c:/Users/jwiedenmann/source/other_projects/resume/cv.tex" 1716726590 3522 1064fd3f65fdd6a7b46e8de4d106dd13 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1665479945 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1665478790 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty" 1665480527 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -35,7 +35,7 @@
   "c:/texlive/2022/texmf-dist/web2c/texmf.cnf" 1665477699 40171 cdab547de63d26590bebb3baff566530 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1665486658 3058759 7dd1f002c95a5e4bd391633178da8b34 ""
   "c:/texlive/2022/texmf.cnf" 1665486538 713 e69b156964470283e0530f5060668171 ""
-  "cv.tex" 1716725723 3568 617ae75240f5375659249d918ede5700 ""
+  "cv.tex" 1716726590 3522 1064fd3f65fdd6a7b46e8de4d106dd13 ""
   (generated)
   "build/cv.log"
   "build/cv.pdf"
